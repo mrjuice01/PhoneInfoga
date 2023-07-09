@@ -61,3 +61,30 @@ Some parts of this code comes from [Infoga](https://github.com/m4ll0k/infoga), a
 [Icon](https://www.flaticon.com/free-icon/fingerprint-search-symbol-of-secret-service-investigation_48838) made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>.
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsundowndev%2FPhoneInfoga?ref=badge_large)
+
+
+
+Commands:
+$ apt update && upgrade 
+
+$ pkg install git 
+
+$ pkg install python python2 
+
+$ git clone https://github.com/abhinavkavuri/PhoneInfoga 
+
+$ ls 
+
+$ cd phoneinfoga 
+
+$ mv config.example.py config.py 
+
+$ ls 
+
+$ python3 -m pip install -r requiremets.txt 
+
+$ ls 
+
+$ python3 phoninfoga.py -v 
+
+$ python3 phoninfoga.py -n (add number with country code)
