@@ -15,5 +15,5 @@ def banner():
     print(" \/    |_| |_|\___/|_| |_|\___\____/ |_| |_|_|  \___/ \__, |\__,_|")
     print("                                                      |___/       ")
     print(" PhoneInfoga Ver. {}".format(__version__))
-    print(" Coded by Sundowndev")
+    print(" Coded by Mr Juice")
     print("\n")
